@@ -1,0 +1,10 @@
+name: BaimoModifyKB
+version: 1.0.0
+author: BaimoQilin
+api: [1.0.0, 2.0.0]
+main: top.baimoqilin.BaimoModifyKB.BaimoModifyKB
+commands:
+  kb:
+    description: :Modify KB
+    usage: /kb <set-horizontal|set-vertical>
+    permission: baimomodifykb.use
